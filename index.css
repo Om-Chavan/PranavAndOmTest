@@ -1,0 +1,10 @@
+button {
+    border: solid rgb(199, 57, 57) 3px;
+    background: var(--white);
+}
+
+body {
+    background-color: lightblue;
+
+}
+
